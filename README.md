@@ -97,11 +97,23 @@ The results are stored in CSV format under the `results/` directory.
 
 ### Files Generated:
 - politics_metrics.csv
+  <img width="1089" height="273" alt="image" src="https://github.com/user-attachments/assets/afabc2a2-a116-4885-9b84-bb9a40fa4013" />
+
 - politics_topsis.csv
+  <img width="1331" height="255" alt="image" src="https://github.com/user-attachments/assets/bb55e6f5-0217-4ee1-8a7a-b273aac0863d" />
+
 - sports_metrics.csv
+  <img width="1088" height="259" alt="image" src="https://github.com/user-attachments/assets/e51bf04a-f3c3-449f-88e7-092383fd9320" />
+
 - sports_topsis.csv
+  <img width="1334" height="278" alt="image" src="https://github.com/user-attachments/assets/1b0a17f6-eca1-4ec2-a4d9-7dcc85febbaa" />
+
 - medicine_metrics.csv
+ <img width="1057" height="277" alt="image" src="https://github.com/user-attachments/assets/e3268408-ca8d-4c77-b775-b28b842c7073" />
+
 - medicine_topsis.csv
+  <img width="1312" height="267" alt="image" src="https://github.com/user-attachments/assets/6c5c75e6-4641-47fc-8f92-18781190ec74" />
+
 
 Each TOPSIS file contains:
 - Model-wise TOPSIS scores
@@ -141,6 +153,7 @@ This assignment successfully applies the TOPSIS decision-making technique to eva
 TOPSIS proves to be an effective and systematic approach for ranking models based on multiple evaluation criteria.
 
 ---
+
 
 
 
